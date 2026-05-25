@@ -17,5 +17,6 @@
 
 ## 工具特点
 操作简易直观，免去复杂命令与代码调试步骤，有效降低云服务接入成本，提升调试效率，同时保障密钥使用安全合规。
-<img width="1026" height="773" alt="微信图片_2026-05-24_204810_829" src="https://github.com/user-attachments/assets/390b0adf-fc2f-4dc4-9f62-e617044d01f4" />
+<img width="2560" height="1400" alt="image" src="https://github.com/user-attachments/assets/7b0aa0d1-e0ea-408f-afe0-d6da55ddbfb9" />
+
 
